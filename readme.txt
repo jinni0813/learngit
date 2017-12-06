@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 +Creating a new branch is quick AND SIMPLE.
 +Creating a new branch is quic and simple.
 +Creating a new branch dev2.
++ issue-001,bug fixed.
